@@ -78,6 +78,8 @@ To shift from basic reporting into predictive risk diagnostics, three entirely n
     ```
 
 ---
+<img width="1313" height="926" alt="VECTRAPAY  CONSUMER LENDING PORTFOLIO   CREDIT RISK DIAGNOSTICS" src="https://github.com/user-attachments/assets/6407ddf2-b2d3-4419-a692-e3a3ca153836" />
+
 
 Diagnostic Test Outcomes & Executive Summary
 
